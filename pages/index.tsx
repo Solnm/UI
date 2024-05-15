@@ -206,29 +206,29 @@ import {
           <style jsx global>
             {`
         body {
-            background: #000; 
+          background: #000; 
          }
      `}
           </style>
   
           <div className={styles.nftBoxGrid}>
           <div className={styles.optionSelectBox4}>
-          <h1 className={styles.title}>Demo Project</h1>
+          <h1 className={styles.gradientText1}>Demo Project</h1>
               
               <br/>
-              <h2 className={styles.selectBoxTitle2}>Description </h2>
+              <h2 className={styles.gradientText}>Description </h2>
               <br/>
-                <h3 className={styles.selectBoxTitle}>This Is A Sample Event So You Can See How Your Actual Event Will Look</h3>
+                <h3 className={styles.gradientText2}>This Is A Sample Event So You Can See How Your Actual Event Will Look</h3>
                 <br/>
               <br/>
-              <h2 className={styles.selectBoxTitle2}>Instructions</h2>
+              <h2 className={styles.gradientText}>Instructions</h2>
               <br/>
-              <h3 className={styles.selectBoxTitle}>Select The Event You Want, Then Carefully Read The Instructions.
+              <h3 className={styles.gradientText2}>Select The Event You Want, Then Carefully Read The Instructions.
                                                     Learn Where The Event Is Being Held And How To Get There.
                                                     Mint The Ticket And Wait For The Event Date.
                                                     when You Arrive At The Event, You’ll Find The Sponsor Waiting For You.</h3>
         
-        <br/>
+       
       
           </div>
           <div 
@@ -240,10 +240,10 @@ import {
   
           <div className={styles.nftBoxGrid}>
           <div className={styles.optionSelectBox4}>
-     
+          <h2 className={styles.gradientText3}>Price: 0.1 SOL</h2>
          <VStack >
-         <Text fontSize={"md"} fontStyle={"italic"} marginTop={"30"} marginRight={"150"} > Remaining NFTs</Text>
-         <Text fontWeight={"semibold"} marginRight={"150"}>{Number(candyMachine?.data.itemsAvailable) - Number(candyMachine?.itemsRedeemed)}/{Number(candyMachine?.data.itemsAvailable)}</Text>
+         <Text className={styles.gradientText2} fontSize={"md"} fontStyle={"italic"} marginTop={"30"} marginRight={"150"} > Remaining NFTs</Text>
+         <Text className={styles.gradientText2} fontWeight={"semibold"} marginRight={"150"}>{Number(candyMachine?.data.itemsAvailable) - Number(candyMachine?.itemsRedeemed)}/{Number(candyMachine?.data.itemsAvailable)}</Text>
          </VStack>
           </div>
           <div 
@@ -340,14 +340,14 @@ import {
               
               
            
-              <div className={styles.optionSelectBox5}>
+              <div className={styles.gradientText}>
           <div className={styles.link}>
           <Link href="https://v2.solpad.art/" className={styles.link} >
           <h2 className={styles.selectBoxTitle2}>Market</h2>
                   </Link>
            </div>
            </div>
-              <div className={styles.optionSelectBox5}>
+              <div className={styles.gradientText}>
           <div className={styles.link}>
           <Link href="https://v2.solpad.art/wallet" className={styles.link} >
           <h2 className={styles.selectBoxTitle2}>Portfolio</h2>
