@@ -342,14 +342,14 @@ import {
            
               <div className={styles.optionSelectBox5}>
           <div className={styles.link}>
-          <Link href="https://v2.solpad.art/" className={styles.link} target="_blank" rel="noreferrer">
+          <Link href="https://v2.solpad.art/" className={styles.link} >
           <h2 className={styles.selectBoxTitle2}>Market</h2>
                   </Link>
            </div>
            </div>
               <div className={styles.optionSelectBox5}>
           <div className={styles.link}>
-          <Link href="https://v2.solpad.art/wallet" className={styles.link} target="_blank" rel="noreferrer">
+          <Link href="https://v2.solpad.art/wallet" className={styles.link} >
           <h2 className={styles.selectBoxTitle2}>Portfolio</h2>
                   </Link>
            </div>
