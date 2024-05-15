@@ -349,15 +349,11 @@ export default function Home() {
          </div>
          
             <div className={styles.optionSelectBox5}>
-        <div className={styles.link}>
-        <Link href="https://solpad.art/" className={styles.link} target="_blank" rel="noreferrer">
-          <h2 className={styles.selectBoxTitle2}>Launchpad</h2>
-                </Link>
-         </div>
+        
          </div>
             <div className={styles.optionSelectBox5}>
         <div className={styles.link}>
-        <Link href="https://solnm.com/" className={styles.link} target="_blank" rel="noreferrer">
+        <Link href="https://v2.solpad.art/" className={styles.link} target="_blank" rel="noreferrer">
           <h2 className={styles.selectBoxTitle2}>Market</h2>
                 </Link>
          </div>
@@ -367,18 +363,14 @@ export default function Home() {
             <div className={styles.optionSelectBox5} >
               
               <div className={styles.link}>
-          <Link href="https://solpad.art/dashboard/basic-drop" className={styles.link} target="_blank" rel="noreferrer">
-          <h2 className={styles.selectBoxTitle2}>Apply</h2>
+          <Link href="https://v2.solpad.art/wallet" className={styles.link} target="_blank" rel="noreferrer">
+          <h2 className={styles.selectBoxTitle2}>Your NFTs</h2>
                 </Link>
                 </div>
             </div>
             <div className={styles.optionSelectBox5} >
               
-              <div className={styles.link}>
-          <Link href="https://docs.solpad.art/" className={styles.link} target="_blank" rel="noreferrer">
-          <h2 className={styles.selectBoxTitle2}>Docs</h2>
-                </Link>
-                </div>
+             
             </div>
 
             <div className={styles.optionSelectBox5} >
