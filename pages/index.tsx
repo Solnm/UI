@@ -337,11 +337,7 @@ import {
           
            </div>
            </div>
-              <div className={styles.optionSelectBox5}>
-          <div className={styles.link}>
-          
-           </div>
-           </div>
+              
               
            
               <div className={styles.optionSelectBox5}>
