@@ -358,11 +358,17 @@ import {
               <div className={styles.optionSelectBox5}>
           <div className={styles.link}>
           <Link href="https://v2.solpad.art/wallet" className={styles.link} target="_blank" rel="noreferrer">
-          <h2 className={styles.selectBoxTitle2}>Your NFTs</h2>
+          <h2 className={styles.selectBoxTitle2}>Portfolio</h2>
                   </Link>
            </div>
               </div>
-          
+          <div className={styles.optionSelectBox5} >
+                
+                <div className={styles.link}>
+            
+                  </div>
+                  
+              </div>
               
               <div className={styles.optionSelectBox5} >
                 
