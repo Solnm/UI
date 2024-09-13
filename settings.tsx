@@ -16,4 +16,4 @@ export const github = "https://i.imgur.com/DUhpjOQ.png";
 
 
 //website title
-export const headerText = "SOLPAD";
+export const headerText = "SOLNM";
