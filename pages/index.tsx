@@ -286,7 +286,7 @@ import {
               </div>
               <div className={styles.optionSelectBox5}>
           <div className={styles.link}>
-          <Link href="https://www.linkedin.com/company/solpad-nft" className={styles.link} target="_blank" rel="noreferrer">
+          <Link href="https://www.linkedin.com/company/solnm" className={styles.link} target="_blank" rel="noreferrer">
           <Image src={linkedin} alt="token" width={10} height={10} borderRadius={20}/>
           </Link>
            </div>
@@ -294,7 +294,7 @@ import {
               </div>
               <div className={styles.optionSelectBox5}>
           <div className={styles.link}>
-          <Link href="https://twitter.com/Solpadnft" className={styles.link} target="_blank" rel="noreferrer">
+          <Link href="https://twitter.com/Solnmcom" className={styles.link} target="_blank" rel="noreferrer">
           <Image src={twitter} alt="token" width={10} height={10} borderRadius={20}/>
           </Link>
            </div>
@@ -310,7 +310,7 @@ import {
               </div>
               <div className={styles.optionSelectBox5}>
           <div className={styles.link}>
-          <Link href="https://github.com/solpad-art" className={styles.link} target="_blank" rel="noreferrer">
+          <Link href="https://github.com/solnm" className={styles.link} target="_blank" rel="noreferrer">
           <Image src={github} alt="token" width={10} height={10} borderRadius={20}/>
           </Link>
                    </div>
