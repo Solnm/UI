@@ -180,7 +180,7 @@ create a GitHub account if you don't have one, and upload your files.
 `feel free to create an issue or a pull request`
 
 ### If you feel that it is difficult for you, you can apply to launch and host it on our platform
-https://solpad.art/dashboard/basic-drop/
+https://solnm.com/dashboard/basic-drop/
 
 
 ### Disclaimer!
